@@ -1,5 +1,5 @@
-# Cindy's User Page
-## Table of Contents
+# Cindy Zhang
+### Table of Contents
 [About Me](#about-me)
 
 [Pets](#pets)
@@ -7,16 +7,9 @@
 [The Most Correct and Objective Lists of All Time](#the-most-correct-and-objective-lists-of-all-time)
 
 ## About Me
-Hello! I am a second year computer science major at UCSD. I chose computer science as a major for 
+Hello! My name is `Cindy Zhang`, I am a second year computer science major at UCSD. While I do enjoy coding, as a programmer I enjoy probelm solving aspects of software engineering more. My primary reason for studying computer science was because I wanted to use new technologies and software to solve real world problems. I hope that I can learn more at UCSD to be able to build up the skills to do so!
 
-My goals for coming to UCSD (task list)
-- [x] Meet new people!
-- [x] Work on projects
-- [ ] Get a job....
-- [ ] Pass all my classes
-- [ ] Have fun :)
-
-When I'm not coding or doing school work, you will likely find me doing one or more of the following:
+When I'm not working on projects or doing school work, you will likely find me doing one or more of the following:
 - sleeping
 - playing ~~League of Legends~~ video games
 - reading (books, poems, short stories, comics, etc.)
@@ -25,31 +18,43 @@ When I'm not coding or doing school work, you will likely find me doing one or m
 - exploring new food places around San Diego
 - sleeping
 
+What I want to achieve at UCSD:
+- [ ] Meet new people!
+- [ ] Work on projects
+- [ ] Pass all my classes
+- [ ] Get a job...
+- [ ] Have fun :)
 
 
 ## Pets
-In every single introduction, my favorite thing to talk about is my pets. I sometimes wonder if I talk too much about them. Unfortunately they have caused too much property damage and scratches for me not to larp constantly about their cuteness, so here we are. 
+My favorite thing to talk about during introductions are my two cats, Henry and Calpico.
 
-*link to calp/henry insta*
-*encode images of henry and calp as photos?*
+**Calpico** (domestic short-hair calico)
+![Calpico (calico)](/Pictures/Calpico.jpg)
 
+**Henry** (orange mixed maine coon)
+![Henry (orange and possibly half maine coon)](/Pictures/Henry.jpg)
+
+For more pictures, check out their [instagram account](https://www.instagram.com/henry_calpico?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)!
+
+These are some of my favorite photos of them: [Calpico zooming](/Pictures/zooming.jpg) and [Henry being a gentleman](/Pictures/gentleman.jpg)
 
 ## The Most Correct and Objective Lists of All Time*
 <sub>  * *extremely subjective. based on my personal opinions.* </sub>
 
 **Best Boba Places in San Diego**
-1. BenGong's Tea
-2. Heytea
-3. OMOMO TEA SHOPPE
-4. 3CAT Handcrafted Beverage
-5. DaYung's Tea
+1. [BenGong's Tea](https://www.bengongstea.us/)
+2. [Heytea](https://www.heytea.com/)
+3. [OMOMO TEA SHOPPE](https://www.omomoteashoppe.com/locations/san-diego-del-mar-highlands/)
+4. [3CAT Handcrafted Beverage](https://www.3catea.com/)
+5. [DaYung's Tea](https://www.instagram.com/dayungs_sd/)
 
 **Favorite Cat**
 1. How could I *possibly* have a favorite cat? I love all my cats equally.
 2. Henry
 3. Calpico
 
-**Top Five Favorite Short Stories**
+**Favorite Short Stories**
 1. "The Ones Who Walk Away From Omelas" by Ursula K. Le Guin
 2. "The Yellow Wallpaper" by Charlotte Perkins Gilman
 3. "Bloodchild" by Octavia E. Butler
@@ -58,8 +63,10 @@ In every single introduction, my favorite thing to talk about is my pets. I some
 
 Honorable mention to "Why Don't We Just Kill the Kid in the Omelas Hole" by Isabel J. Kim.
 
-To expand on this list a bit: admittedly, I have not read too many short stories. As can be seen from this list, I pretty much have only read the most well-known ones. In fact, I only started reading short stories recently, and it was largely because of this quote from "The Ones Who Walk Away From Omelas" by Ursula K. Le Guin:
+To justify my first choice: "The Ones Who Walk Away From Omelas" is one of my favorite pieces of literature that I have ever read. Le Guin wrote a very thought provoking narrative on a utopian city depending on the misery of a child as a scapegoat. It presents commentary on our society more than just a trolley problem esque moral dilemma. There is one quote in particular that left a pretty deep impression on me:
 
 > “The trouble is that we have a bad habit, encouraged by pedants and sophisticates, of considering happiness as something rather stupid. Only pain is intellectual, only evil interesting. This is the treason of the artist; a refusal to admit the banality of evil and the terrible boredom of pain.”
 
-I hope one day we can strive to understand 
+I hope one day we can all strive to be better people without the justification of suffering.
+
+[Back To Top](#cindys-user-page)
