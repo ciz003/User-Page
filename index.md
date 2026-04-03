@@ -69,4 +69,4 @@ To justify my first choice: "The Ones Who Walk Away From Omelas" is one of my fa
 
 I hope one day we can all strive to be better people without the justification of suffering.
 
-[Back To Top](#cindys-user-page)
+[Back To Top](#cindy-zhang)
